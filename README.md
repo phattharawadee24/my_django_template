@@ -1,2 +1,2 @@
 # my_django_template
-Django app
+My appication Django
